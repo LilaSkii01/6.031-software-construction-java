@@ -1,5 +1,5 @@
 # 6.031-software-construction-java
-open course MIT software construction in java
+open course MIT [Software Construction in Java](https://web.mit.edu/6.031/www/sp21/)
 
 - useful resource:
-  - [python vs. java](https://kennethalambert.com/pythontojava/)
+  - [Python vs. Java](https://kennethalambert.com/pythontojava/)
